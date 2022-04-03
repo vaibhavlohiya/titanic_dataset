@@ -14,7 +14,7 @@ This is the most easiest and less time consuming part, here we just have to impo
 
 Now, after importing the dataset and putting it into a pandas dataframe it would look somewhat like this 
 
-"text/plain": [
+    "text/plain": [
  "   PassengerId  Survived  Pclass  \\\n",
  "0            1       0.0       3   \n",
  "1            2       1.0       1   \n",
@@ -35,7 +35,7 @@ Now, after importing the dataset and putting it into a pandas dataframe it would
  "2      0  STON/O2. 3101282   7.9250   NaN        S  \n",
  "3      0            113803  53.1000  C123        S  \n",
  "4      0            373450   8.0500   NaN        S  "
-]
+ ]
 
 ## 2. Data preprocessing
 
