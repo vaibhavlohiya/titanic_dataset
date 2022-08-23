@@ -13,8 +13,8 @@ Now, this whole process can be devided into 4 parts, which are :-
 This is the most easiest and less time consuming part, here we just have to import the basic libraries to handle the data and to build our machine learning models. After, doing that we have to import our training and testing dataset. 
 
 We can do this buy reading the '.csv' using pandas.
-  train = pd.read_csv('train.csv')
-  test = pd.read_csv('test.csv')
+  # train = pd.read_csv('train.csv')
+  # test = pd.read_csv('test.csv')
 
 Now, after importing the dataset and putting it into a pandas dataframe it would look somewhat like this 
 
